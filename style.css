@@ -1,0 +1,29 @@
+body{
+        background-color:rgb(255, 255, 255);
+        color:#555555;
+        font-family: Helvetica, sans-serif;
+        font-size: 15px;
+        margin:0;
+    
+}
+
+.container {
+    width:60%;
+    margin:auto;
+
+}
+.header{
+    margin: 10px;
+    background-image: url("topheaderbar.jpg");
+    border: 1px solid #ccc;
+    color:#fff;
+    font-size:30;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    text-shadow: 3px 3px 3px #aaa;
+}
+
+.block{
+    float:left;
+    width:33.3%;
+}
